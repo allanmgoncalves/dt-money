@@ -2,7 +2,7 @@
   "transactions": [
     {
       "id": 1,
-      "description": "Website Development",
+      "description": "Website Development (Blog)",
       "type": "income",
       "category": "Income",
       "value": 2500,
@@ -10,10 +10,18 @@
     },
     {
       "id": 2,
-      "description": "Apartment Rental",
+      "description": "Apartment Rent",
       "type": "outcome",
       "category": "Outcome",
       "value": 2000,
+      "createdAt": "2023-10-31T11:26:55.117Z"
+    },
+    {
+      "id": 3,
+      "description": "Market",
+      "type": "outcome",
+      "category": "Outcome",
+      "value": 600,
       "createdAt": "2023-10-31T11:26:55.117Z"
     }
   ]
