@@ -3,7 +3,7 @@ import { defaultTheme } from '../../styles/themes/default'
 import { SummaryCard, SummaryContainer } from './styles'
 
 import { priceFormatter } from '../../utils/formatter'
-import { useSummary } from '../../hooks/UseSummary'
+import { useSummary } from '../../hooks/useSummary'
 
 export function Summary() {
   const summary = useSummary()
