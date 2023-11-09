@@ -23,6 +23,22 @@
       "category": "Outcome",
       "value": 600,
       "createdAt": "2023-10-31T11:26:55.117Z"
+    },
+    {
+      "description": "Description",
+      "category": "House",
+      "type": "income",
+      "value": 4050,
+      "createdAt": "2023-11-08T20:33:07.953Z",
+      "id": 4
+    },
+    {
+      "description": "Web Development (Full site and blog)",
+      "category": "Sell",
+      "type": "income",
+      "value": 62000,
+      "createdAt": "2023-11-09T11:29:10.690Z",
+      "id": 5
     }
   ]
 }
