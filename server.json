@@ -39,6 +39,14 @@
       "value": 62000,
       "createdAt": "2023-11-09T11:29:10.690Z",
       "id": 5
+    },
+    {
+      "description": "Web Development (Full site and blog)",
+      "category": "Entry",
+      "type": "income",
+      "value": 4050,
+      "createdAt": "2024-01-09T12:16:05.916Z",
+      "id": 6
     }
   ]
 }
